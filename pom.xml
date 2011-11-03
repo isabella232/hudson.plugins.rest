@@ -189,7 +189,6 @@
   <modules>
     <module>hudson-rest-common</module>
     <module>hudson-rest-model</module>
-    <module>hudson-rest-client</module>
     <module>hudson-rest-api</module>
     <module>hudson-rest-server</module>
     <module>rest-plugin</module>
