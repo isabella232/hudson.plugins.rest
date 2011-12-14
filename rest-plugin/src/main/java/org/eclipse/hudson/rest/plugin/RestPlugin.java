@@ -89,7 +89,7 @@ public class RestPlugin
 
     @Override
     public void start() throws Exception {
-        Hudson.XSTREAM.alias("org.hudsonci.rest.plugin.RestPlugin", RestPlugin.class);
+        Hudson.XSTREAM.alias("org.eclipse.hudson.rest.plugin.RestPlugin", RestPlugin.class);
         load();
     }
 
