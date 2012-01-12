@@ -24,6 +24,7 @@
   </parent> 
 
   <artifactId>hudson-rest</artifactId>
+  <version>3.0.1-SNAPSHOT</version>
   <name>Hudson :: REST</name>
   <packaging>pom</packaging>
 
