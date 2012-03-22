@@ -20,7 +20,7 @@
         xsi:noNamespaceSchemaLocation="http://enunciate.codehaus.org/schemas/enunciate-1.20.xsd">
 
     <api-classes>
-        <include pattern="org.eclipse.hudson.rest.api.**"/>
+        <include pattern="org.hudsonci.rest.api.**"/>
     </api-classes>
 
     <namespaces>
