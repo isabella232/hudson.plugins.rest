@@ -17,6 +17,7 @@ work
 .project
 
 build
+!hudson-rest-api/src/main/java/org/hudsonci/rest/api/build/
 
 war/images/16x16
 war/images/24x24
