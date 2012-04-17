@@ -24,7 +24,7 @@
     </parent> 
 
     <artifactId>hudson-rest</artifactId>
-    <version>3.0.1-SNAPSHOT</version>
+    <version>3.0.1</version>
     <name>Hudson :: REST</name>
     <packaging>pom</packaging>
 
@@ -39,7 +39,7 @@
         <jsr311-api.version>1.1.1</jsr311-api.version>
         <cometd-java-asynchttpclient.version>1.1</cometd-java-asynchttpclient.version>
         <cometd-java-server.version>1.1.2</cometd-java-server.version>
-        <hudson.jaxb.xjc.version></hudson.jaxb.xjc.version>
+        <hudson.jaxb.xjc.version />
     </properties>
 
     <dependencyManagement>
